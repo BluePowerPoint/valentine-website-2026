@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 8h, 2026? 🌹", // The big question!
+            text: "Will you be my Valentine on February 8th, 2026? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -42,7 +42,7 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love 3000?? 🥰🚀💝",  // Shows when they go past 5000%
+        extreme: "WOOOOW You love me 3000?? 🥰🚀💝",  // Shows when they go past 5000%
         high: "You are getting closer! 🚀💝",              // Shows when they go past 1000%
         normal: "I still love you more! 🥰"                           // Shows when they go past 100%
     },
